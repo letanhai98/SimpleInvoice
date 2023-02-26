@@ -23,3 +23,7 @@ After yarn install
 - Create invoice [v]
 - After created invoice will shown in list [v]
 - Use redux - redux toolkit [v]
+
+## TEST
+
+Sorry that I didn't do auto test Detox often before, I can learn quickly to apply, hope I have a chance.
